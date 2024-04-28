@@ -1,0 +1,61 @@
+p{
+color: white;
+}
+p1{
+color: black;
+}
+body{
+background:url("/home/viclane/doc1/2023-10-10_17h12_35-YbNnQK3KOWCDxjgQ.png")fixed top center;
+	   background-repeat:no-repeat;
+height:100%;
+width:100%;
+background-size:1300px;	   
+}
+#para{
+color:green;
+}
+div{
+width:100%;
+border:1px solid white;
+height: 100%;
+}
+#para_2{
+color: green;
+}
+pdiv{
+text-align:center;
+}
+h4{
+color:black;
+text-align:center;
+}
+h1{
+color:black;
+}
+div1{
+width:1px;
+border:1px solid black;
+height: 1px;
+background-color:rgb(29, 29, 29);
+}
+#para_3{
+color: green;
+}
+#para_4{
+color: green;
+}
+img{
+width:100px;
+height:100px  
+}
+
+
+
+
+
+
+
+
+
+
+
